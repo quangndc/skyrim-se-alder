@@ -190,6 +190,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Skyrim Special Edition · Updated 2026-11-18 · Shared under the MIT License*
+*Skyrim Special Edition · Updated 2026-11-19 · Shared under the MIT License*
 
-<!-- rev 2026-11-18 -->
+<!-- rev 2026-11-19 -->
